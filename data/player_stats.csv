@@ -1,1 +1,6 @@
-
+date,player,team,opponent,points,rebounds,assists,minutes_played,fg_pct,win
+2026-02-20,LeBron James,Lakers,Warriors,28,7,8,35,0.52,1
+2026-02-21,LeBron James,Lakers,Nets,31,9,6,36,0.48,0
+2026-02-22,LeBron James,Lakers,Clippers,25,8,7,34,0.50,1
+2026-02-23,LeBron James,Lakers,Suns,30,10,9,38,0.55,1
+2026-02-24,LeBron James,Lakers,Spurs,22,6,5,33,0.47,0
